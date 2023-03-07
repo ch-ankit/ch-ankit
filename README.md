@@ -4,8 +4,8 @@ I'm a data enthusiast who loves working with databases and building web applicat
 - 🌱 I’m currently learning Python and data engineering.
 - 💬 Ask me about anything related to databases and web development!
 - 📫 How to reach me:  
-     -- [LinkedIn](https://www.linkedin.com/in/ankit-khatiwada-ak/)  
-     -- 📧[E-mail](akgunner6@gmail.com)
+     nbsp [LinkedIn](https://www.linkedin.com/in/ankit-khatiwada-ak/)  
+     nbsp 📧[E-mail](akgunner6@gmail.com)
 - 😄 Pronouns: He/Him
 
 ### Skills
