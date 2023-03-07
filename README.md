@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @ch-ankit
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi there, I'm Ankit!
+I'm a data enthusiast who loves working with databases and building web applications. I have experience coding with MySQL and MongoDB, and I am proficient   in React, JavaScript, Node.js, HTML5, CSS, Python, and Express.
 
-<!---
-ch-ankit/ch-ankit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning Python and data engineering.
+- 💬 Ask me about anything related to databases and web development!
+- 📫 How to reach me:  
+     -- [LinkedIn](https://www.linkedin.com/in/ankit-khatiwada-ak/)  
+     -- 📧[E-mail](akgunner6@gmail.com)
+- 😄 Pronouns: He/Him
+
+### Skills
+
+- React
+- JavaScript
+- Node.js
+- HTML5
+- CSS
+- Python
+- Express
+- MySQL
+- MongoDB
+
+### Hobbies
+
+- Reading books
+- Playing sports
+- Watching movies
